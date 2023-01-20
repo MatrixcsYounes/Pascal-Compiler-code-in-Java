@@ -5,7 +5,58 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc1303e6-32a2-4475-b617-e728853f1385" name="Changes" comment="TP5 commit">
-      <change beforePath="$PROJECT_DIR$/TP5" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP5/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP5/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP5/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP5/out/production/prog.mips1/Compiler/ClasseIdf.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP5/out/production/prog.mips1/Compiler/CodesErr.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP5/out/production/prog.mips1/Compiler/ErreurCompilation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP5/out/production/prog.mips1/Compiler/ErreurLexicale.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP5/out/production/prog.mips1/Compiler/ErreurSemantique.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP5/out/production/prog.mips1/Compiler/ErreurSyntaxique.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP5/out/production/prog.mips1/Compiler/Instruction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP5/out/production/prog.mips1/Compiler/Parser$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP5/out/production/prog.mips1/Compiler/Parser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP5/out/production/prog.mips1/Compiler/ParserWS$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP5/out/production/prog.mips1/Compiler/ParserWS.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP5/out/production/prog.mips1/Compiler/Scanner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP5/out/production/prog.mips1/Compiler/ScannerWS.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP5/out/production/prog.mips1/Compiler/Symboles.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP5/out/production/prog.mips1/Compiler/Tokens.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP5/out/production/prog.mips1/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP5/out/production/prog.mips1/net/mips/interpreter/Instruction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP5/out/production/prog.mips1/net/mips/interpreter/InterpreterPcode$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP5/out/production/prog.mips1/net/mips/interpreter/InterpreterPcode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP5/out/production/prog.mips1/net/mips/interpreter/Mnemonique.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP5/out/production/prog.mips1/net/mips/interpreter/ParserPcode$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP5/out/production/prog.mips1/net/mips/interpreter/ParserPcode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP5/out/production/prog.mips1/net/mips/interpreter/ScannerPcode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP5/out/production/prog.mips1/net/mips/interpreter/Symboles.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP5/prog.mips1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP5/prog.mips1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP5/results.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP5/src/Compiler/ClasseIdf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP5/src/Compiler/CodesErr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP5/src/Compiler/ErreurCompilation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP5/src/Compiler/ErreurLexicale.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP5/src/Compiler/ErreurSemantique.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP5/src/Compiler/ErreurSyntaxique.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP5/src/Compiler/Instruction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP5/src/Compiler/Parser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP5/src/Compiler/ParserWS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP5/src/Compiler/Scanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP5/src/Compiler/ScannerWS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP5/src/Compiler/Symboles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP5/src/Compiler/Tokens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP5/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP5/src/net/mips/interpreter/Instruction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP5/src/net/mips/interpreter/InterpreterPcode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP5/src/net/mips/interpreter/Mnemonique.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP5/src/net/mips/interpreter/ParserPcode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP5/src/net/mips/interpreter/ScannerPcode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP5/src/net/mips/interpreter/Symboles.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674247754362</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="TP5 commit">
+      <created>1674248600137</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1674248600137</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
