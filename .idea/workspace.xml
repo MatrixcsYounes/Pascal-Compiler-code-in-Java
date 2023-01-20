@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bc1303e6-32a2-4475-b617-e728853f1385" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prog.mips1/Compiler/ClasseIdf.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prog.mips1/Compiler/CodesErr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prog.mips1/Compiler/ErreurCompilation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prog.mips1/Compiler/ErreurLexicale.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prog.mips1/Compiler/ErreurSemantique.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prog.mips1/Compiler/ErreurSyntaxique.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prog.mips1/Compiler/Instruction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prog.mips1/Compiler/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prog.mips1/Compiler/Parser$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prog.mips1/Compiler/Parser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prog.mips1/Compiler/ParserWS$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prog.mips1/Compiler/ParserWS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prog.mips1/Compiler/Scanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prog.mips1/Compiler/ScannerWS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prog.mips1/Compiler/Symboles.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prog.mips1/Compiler/Tokens.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prog.mips1/net/mips/interpreter/Instruction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prog.mips1/net/mips/interpreter/Mnemonique.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prog.mips1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prog.mips1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Compiler/ClasseIdf.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Compiler/CodesErr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Compiler/ErreurCompilation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Compiler/ErreurLexicale.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Compiler/ErreurSemantique.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Compiler/ErreurSyntaxique.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Compiler/Instruction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Compiler/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Compiler/Parser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Compiler/ParserWS.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Compiler/Scanner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Compiler/ScannerWS.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Compiler/Symboles.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Compiler/Tokens.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/mips/interpreter/Instruction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/mips/interpreter/Mnemonique.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2KayesolAiC56ppQkh5YSDi6qcU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/HounainYounes/Desktop/prog.mips1",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc1303e6-32a2-4475-b617-e728853f1385" name="Changes" comment="" />
+      <created>1674227086418</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674227086418</updated>
+    </task>
+    <servers />
+  </component>
+</project>

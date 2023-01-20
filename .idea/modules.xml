@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/prog.mips1.iml" filepath="$PROJECT_DIR$/prog.mips1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TP4/TP4.iml" filepath="$PROJECT_DIR$/TP4/TP4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TP5/TP5.iml" filepath="$PROJECT_DIR$/TP5/TP5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/prog.mips1.iml" filepath="$PROJECT_DIR$/.idea/prog.mips1.iml" />
     </modules>
   </component>
 </project>
