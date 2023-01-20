@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc1303e6-32a2-4475-b617-e728853f1385" name="Changes" comment="&quot;TP5 commit&quot;">
-      <change afterPath="$PROJECT_DIR$/TP5/out/production/prog.mips1/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TP5/out/production/prog.mips1/net/mips/interpreter/InterpreterPcode$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TP5/out/production/prog.mips1/net/mips/interpreter/InterpreterPcode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TP5/out/production/prog.mips1/net/mips/interpreter/ParserPcode$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TP5/out/production/prog.mips1/net/mips/interpreter/ParserPcode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TP5/out/production/prog.mips1/net/mips/interpreter/ScannerPcode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TP5/out/production/prog.mips1/net/mips/interpreter/Symboles.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TP5/results.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP5" beforeDir="false" afterPath="$PROJECT_DIR$/TP5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP5/out/production/prog.mips1/Compiler/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP5/out/production/prog.mips1/net/mips/interpreter/Mnemonique.class" beforeDir="false" afterPath="$PROJECT_DIR$/TP5/out/production/prog.mips1/net/mips/interpreter/Mnemonique.class" afterDir="false" />
-    </list>
+    <list default="true" id="bc1303e6-32a2-4475-b617-e728853f1385" name="Changes" comment="TP5 commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +12,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -50,6 +39,18 @@
       <option name="presentableId" value="Default" />
       <updated>1674227086418</updated>
     </task>
+    <task id="LOCAL-00001" summary="TP5 commit">
+      <created>1674246395980</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674246395980</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="TP5 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="TP5 commit" />
   </component>
 </project>
